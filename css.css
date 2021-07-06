@@ -1,0 +1,68 @@
+﻿.navigation {
+	font-size: 25px;
+}
+
+.navigation a {
+	text-decoration: none;
+	font-family: '宋体';
+	color: #1E90FF;
+}
+
+.navigation a:hover {
+	text-decoration: none;
+	color: #A95656;
+	font-weight:bold;
+}
+
+.space {
+	height: 5%;
+}
+
+.content {
+	position: relative;
+	height: 60%;
+	width: 80%;
+	line-height:40px;
+}
+
+.content a {
+	font-size: 19px;
+	font-family: '宋体';
+	text-decoration: none;
+	color: #696969;
+}
+
+.content a:hover {
+	text-decoration: none;
+	font-size: 20px;
+	color: #6495ED;
+}
+
+.content li {
+	list-style-type:none;
+}
+
+.left {
+	text-align: right;
+	width: 48%;
+	height: 90%;
+	float: left;
+	
+}
+
+.right {
+	text-align: left;
+	width: 52%;
+	height: 90%;
+	float: left;
+}
+
+.footer {
+	text-align: center;
+	position: absolute;
+	width: 98%;
+	bottom: 60px;
+	font-size: 15px;
+	font-family: '宋体';
+	text-decoration: underline;
+}
